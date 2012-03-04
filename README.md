@@ -1,4 +1,4 @@
-## Welcome to Korea Sencha User Group Lab1/SenchaCon Team.
+## Welcome to Korea Sencha User Group <br>Lab1/SenchaCon Team.
 
 ### "Korea Sencha User Group Lab1/SenchaCon"
 
