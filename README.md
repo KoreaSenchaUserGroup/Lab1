@@ -13,9 +13,9 @@ Sencha Touch의 문서를 <q><strong>한글</strong></q>로 번역.
 **정건우 담당.**
 _**Overview // 개요**_
 
-* Getting Stared with Touch 2 // 터치2 시작하기 (번역완료)
+* **Getting Stared with Touch 2 // 터치2 시작하기 (번역완료)**
 
-* What's new in Touch 2.0 // 터치2.0에서 새로운 기능 (번역완료)
+* **What's new in Touch 2.0 // 터치2.0에서 새로운 기능 (번역완료)**
 
 * Migating from 1.x //  1.x 으로부터 이전하기
 
@@ -77,9 +77,9 @@ _**Components // 컴포넌트**_
 **이민호 담당**
 _**동영상 Archived (Touch version 1)  // 보관 (터치버전 1)**_
 
-* Intro to Layouts // 레이아웃 소개 (번역완료)
+* **Intro to Layouts // 레이아웃 소개 (번역완료)**
 
-* Intro to Listeners // 리스너 소개(번역완료)
+* **Intro to Listeners // 리스너 소개(번역완료)**
 
 * Intro to Panels // 패널 소개
 
