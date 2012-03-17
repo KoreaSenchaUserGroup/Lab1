@@ -1,18 +1,18 @@
-## Welcome to Korea Sencha User Group <br>Lab1/SenchaCon Team.
+# Welcome to Korea Sencha User Group <br>Lab1/SenchaCon Team.
 
-### "Korea Sencha User Group Lab1/SenchaCon"
+# "Korea Sencha User Group Lab1/SenchaCon"
 
-### Objective
+## Objective
 
 Sencha Touch의 문서를 <q><strong>한글</strong></q>로 번역.
 
 참고자료: <a href="http://docs.sencha.com/touch/2-0/#!/guide">Sencha Docs Touch 2.0</a>
 
-### 작업내용
+## 작업내용
 
-**정건우 담당.**
+## **정건우 담당.**
 
-_**Overview // 개요**_
+### _**Overview // 개요**_
 
 * **Getting Stared with Touch 2 // 터치2 시작하기 (번역완료)**
 
@@ -26,7 +26,7 @@ _**Overview // 개요**_
 
 ## **백인철 담당.**
 
-_**Writing Applications // 어플리케이션 작성.**_
+### _**Writing Applications // 어플리케이션 작성.**_
 
 * Building your First App // 첫번째 앱 구축.
 
@@ -44,7 +44,7 @@ _**Writing Applications // 어플리케이션 작성.**_
  
 ## **김태원 담당.**
 
-_**Concepts // 개념.**_
+### _**Concepts // 개념.**_
 
 * Components // 구성요소.
 
@@ -62,7 +62,7 @@ _**Concepts // 개념.**_
  
 ## **정건우 담당**
 
-_**Components // 컴포넌트**_
+### _**Components // 컴포넌트**_
 
 * Using Forms // 폼사용하기
 
@@ -80,7 +80,7 @@ _**Components // 컴포넌트**_
  
 ## **이민호 담당**
 
-_**동영상 Archived (Touch version 1)  // 보관 (터치버전 1)**_
+### _**동영상 Archived (Touch version 1)  // 보관 (터치버전 1)**_
 
 * **Intro to Layouts // 레이아웃 소개 (번역완료)**
 
