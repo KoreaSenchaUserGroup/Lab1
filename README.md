@@ -20,9 +20,9 @@ Sencha Touch의 문서를 <q><strong>한글</strong></q>로 번역.
 
 * **Migating from 1.x //  1.x 으로부터 이전하기 (번역완료)**
 
-* **Using and Creating Builds //  사용 및 빌드 만들기(번역완료)**
+* **Using and Creating Builds //  사용 및 빌드 만들기 (번역완료)**
 
-* **Sencha Command // 센차 명령어(번역완료)**
+* **Sencha Command // 센차 명령어 (번역완료)**
 
 ## **백인철 담당.**
 
