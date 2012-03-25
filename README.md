@@ -50,7 +50,7 @@ Sencha Touch의 문서를 <q><strong>한글</strong></q>로 번역.
 
 * Layouts // 레이아웃.
 
-* **The Class System // 클래스 시스템.**
+* **The Class System // 클래스 시스템 (변역완료)**
 
 * Events // 이벤트.
 
