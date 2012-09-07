@@ -24,7 +24,7 @@ Sencha Touch의 문서를 <q><strong>한글</strong></q>로 번역.
 
 * **Sencha Command // 센차 명령어 (번역완료)**
 
-## **정 건 우 담당.**
+## **정건우 담당.**
 
 ### _**Writing Applications // 어플리케이션 작성.**_
 
